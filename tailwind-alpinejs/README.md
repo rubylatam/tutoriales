@@ -1,7 +1,7 @@
 Utilizar librerías modernas de CSS y javascript en una aplicación Full stack de Rails es cada vez mas sencillo. Acá puedes ver cómo hacerlo desde cero.
 
 ### Tutorial
-[Como Integrar Ruby on Rails 7, TailwindCSS y AlpineJS](https://open.substack.com/pub/rubylatam/p/como-integrar-ruby-on-rails-7-tailwindcss?r=de6dw&utm_campaign=post&utm_medium=web)
+[Como Integrar Ruby on Rails 7, TailwindCSS y AlpineJS](https://open.substack.com/pub/rubylatam/p/como-integrar-ruby-on-rails-7-tailwindcss?r=de6dw&utm_campaign=post&utm_medium=web&utm_source=github)
 
 ### Dependencias
 - Backend
