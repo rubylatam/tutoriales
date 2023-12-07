@@ -1,24 +1,12 @@
-# README
+Utilizar librerías modernas de CSS y javascript en una aplicación Full stack de Rails es cada vez mas sencillo. Acá puedes ver cómo hacerlo desde cero.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Tutorial
+[Como Integrar Ruby on Rails 7, TailwindCSS y AlpineJS](https://open.substack.com/pub/rubylatam/p/como-integrar-ruby-on-rails-7-tailwindcss?r=de6dw&utm_campaign=post&utm_medium=web)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Dependencias
+- Backend
+  - ruby 3.2.2
+  - rails 7.0.8
+- Frontend
+  - tailwindcss-rails 2.0.30
+  - alpinejs 3
