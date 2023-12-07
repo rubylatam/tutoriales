@@ -10,3 +10,17 @@ Utilizar librerías modernas de CSS y javascript en una aplicación Full stack d
 - Frontend
   - tailwindcss-rails 2.0.30
   - alpinejs 3
+
+### Para ejecutar la app
+
+```
+bundle install
+```
+
+```
+bin/dev
+```
+
+Por ultimo vas al browser, visitas [localhost:3000](http://localhost:3000/) y listo! 🎉
+
+![image](https://github.com/rubylatam/tutoriales/assets/149844589/91628657-9463-4c58-807a-7a5e1b1c4214)
