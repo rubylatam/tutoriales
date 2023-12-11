@@ -1,5 +1,5 @@
 # Tutoriales
-Revisa y prueba el código de todos los tutoriales publicados por RubyLatam
+Revisa y prueba el código de todos los tutoriales publicados por RubyLatam en el [blog](https://rubylatam.substack.com/) o en el canal de [youtube](https://www.youtube.com/@Ruby-Latam)
 
 ### Nota:
 
